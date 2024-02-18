@@ -1,0 +1,1 @@
+Game design principles are foundational to creating engaging games. This module focuses on theory, so no direct Lua scripting examples are provided here. Apply these principles when scripting and building your game in Roblox Studio.
